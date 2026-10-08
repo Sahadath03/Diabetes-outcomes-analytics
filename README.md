@@ -155,8 +155,8 @@ Predicted probabilities were generated for individual observations and incorpora
 \## Power BI Dashboard
 
 
+![Diabetes Outcomes & Risk Analysis Dashboard](Images/Diabetes_Dashboard.png)
 
-!\[Diabetes Outcomes \& Risk Analysis Dashboard](Images/Diabetes\_Dashboard.png)
 
 
 
