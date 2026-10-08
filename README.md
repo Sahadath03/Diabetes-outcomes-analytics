@@ -156,7 +156,7 @@ Predicted probabilities were generated for individual observations and incorpora
 
 
 
-!\[Diabetes Outcomes \& Risk Analysis Dashboard](images/diabetes\_dashboard.png)
+!\[Diabetes Outcomes \& Risk Analysis Dashboard](Images/Diabetes\_Dashboard.png)
 
 
 
